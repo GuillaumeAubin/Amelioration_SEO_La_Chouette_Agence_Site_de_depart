@@ -11,7 +11,7 @@
 
 ### Optimiser le SEO d'un site
 
-Le site optimisé hébergé sur GitHub : [La Chouette Agence](https://github.com/GuillaumeAubin/Amelioration_SEO_La_Chouette_Agence)
+Le site optimisé hébergé sur GitHub avec le rendu final : [La Chouette Agence](https://guillaumeaubin.github.io/Amelioration_SEO_La_Chouette_Agence/)
 
 #### 🔨 Optimisez un site web existant
 
@@ -35,6 +35,6 @@ Le site optimisé hébergé sur GitHub : [La Chouette Agence](https://github.com
 
 ***
 
-##### Travail réalisé
+### Travail réalisé
 
 Veuillez me contacter pour découvrir l'intégralité du travail réalisé.
