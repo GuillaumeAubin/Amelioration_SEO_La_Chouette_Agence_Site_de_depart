@@ -15,7 +15,7 @@ Le site optimisé hébergé sur GitHub avec le rendu final : [La Chouette Agence
 
 #### 🔨 Optimisez un site web existant
 
-##### Compétences évalué
+##### Compétences évaluées
 
 * Réaliser une recherche des bonnes pratiques en développement web
 * Assurer l'accessibilité d'un site web
